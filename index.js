@@ -162,7 +162,7 @@ async function startNaze() {
                 let butleav = [{ buttonId: 'owner', buttonText: { displayText: 'ʙᴜʏ / sᴇʟʟ ᴅʟ' }, type: 1 }]
                 let butselamat = [{ buttonId: 'owner', buttonText: { displayText: 'ғʀᴇᴇ ᴊᴏɪɴ ʙᴏᴛ ᴋᴇ ɢʀᴏᴜᴘ' }, type: 1 }]
                 let butsebar = [{ buttonId: 'owner', buttonText: { displayText: 'ʙᴜʏ / sᴇʟʟ ᴅʟ' }, type: 1 }]
-                let nyoutube = ('© Naze\nYoutube/Sc :\nhttps://youtube.com/c/Nazedev')
+                let nyoutube = ('© MFBot\nYT: https://youtube.com/ManzBotEdtz12')
                 let teks1 = `*Hai @${num.split('@')[0]}*\n*Welcome To Group*\n*${metadata.subject}*`
                 let teks2 = `*Left The Group @${num.split('@')[0]}*`
                 let teks3 = `*@${num.split('@')[0]} Promote From*\n*${metadata.subject}*\n*Selamat Anda Menjadi Admin*\n_~Jangan Semena Mena!_`
